@@ -21,7 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubaljacob&show_icons=true&locale=en&layout=compact" alt="jubaljacob" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubaljacob&show_icons=true&locale=en" alt="jubaljacob" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubaljacob&" alt="jubaljacob" /></p>
 
