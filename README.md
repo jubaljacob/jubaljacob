@@ -15,9 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jubaljacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jubaljacob" height="30" width="40" /></a>
 <a href="https://kaggle.com/jubalcjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jubalcjacob" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jubalchandyjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jubalchandyjacob" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jubalchandyjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jubalchandyjacob" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jubalchandyjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jubalchandyjacob" height="30" width="40" /></a>
 </p>
 
 
