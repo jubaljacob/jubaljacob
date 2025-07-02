@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently studying **as an undergrad at Karunya University**
 
-- I have also started learning more about [GAN, which i view as a fascinating topic](https://github.com/jubaljacob/GAN/tree/main)
-
 - 👨‍💻 Some of my projects are available on [https://jubaljacob.vercel.app/](https://jubaljacob.vercel.app/)
 
 - 📫 How to reach me **jubalchandy@gmail.com**
